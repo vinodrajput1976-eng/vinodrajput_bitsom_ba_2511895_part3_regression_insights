@@ -1,0 +1,1 @@
+Use variables with strongest coefficients and significance. Regression shows association, not causation.
