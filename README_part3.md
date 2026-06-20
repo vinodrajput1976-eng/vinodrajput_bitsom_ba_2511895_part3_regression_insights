@@ -1,0 +1,1 @@
+Target=monthly_sales; Numeric=['marketing_spend', 'footfall', 'avg_discount_pct', 'staff_count', 'inventory_availability_pct', 'competitor_distance_km', 'holiday_flag', 'customer_rating', 'monthly_profit']; Categorical=['store_id', 'month', 'region', 'store_type']
